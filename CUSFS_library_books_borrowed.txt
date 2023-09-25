@@ -1,0 +1,232 @@
+<Borrower>Baines, Bryony</Borrower>
+<College>LARP</College>
+<Email>bab28</Email>
+<Date>???</Date>
+<Books>
+01931	Red Prophet	Card O S
+01919	Seventh Son	Card O S
+20302	Xenocide (Ender's Saga Bk 3)	Card O S
+20124	Secret History (Ash Bk 1), A	Gentle M
+</Books>
+
+<Borrower>Bird, Simeon</Borrower>
+<College>Pem</College>
+<Email>spb41</Email>
+<Date>10/2005</Date>
+<Books>
+06916  All the Colours of Darkness	Biggle L
+</Books>
+<Date>06/2006</Date>
+<Books>
+10131	Orion	Bova B
+</Books>
+
+<Borrower>Bielby, Philip</Borrower>
+<College>Cauis</College>
+<Email>pmb45</Email>
+<Date>10/2008</Date>
+<Books>
+  22906  Dick P K                Now Wait for Last Year
+</Books>
+
+<Borrower>Bleibel, F</Borrower>
+<College>Queens'</College>
+<Email>fb322</Email>
+<Date>10/2008</Date>
+<Books>
+ 20733 Hobb R                  Ship of Magic (Liveship Traders Bk 1)
+</Books>
+
+<Borrower>Clarke, D</Borrower>
+<College>Clare</College>
+<Email>dac51</Email>
+<Date>10/2008</Date>
+<Books>
+07185	Bester A      Extro
+        Morgan R      Altered Carbon
+ 41182/21246  Stephenson N    Snow Crash
+</Books>
+
+<Borrower>Corbett, Peter</Borrower>
+<College>Sel</College>
+<Email>ptc24</Email>
+<Date>05/2003</Date>
+<Books>
+10374	Gateway Trip (Heechee Bk 5), The	Pohl F
+</Books>
+
+<Borrower>Cousins, Helen (aka Naath)</Borrower>
+<College>Newnham</College>
+<Email>hftc2</Email>
+<Date>01/2006</Date>
+<Books>
+Stone Canal [signed], The	MacLeod K
+</Books>
+
+<Borrower>Davison, Matthew</Borrower>
+<College>Churchill</College>
+<Email>mjd77</Email>
+<Date>11/2003</Date>
+<Books>
+Cosmonaut Keep (Engines of Light Bk 1)	MacLeod K
+Dark Light (Engines of Light Bk 2)	MacLeod K
+Engine City (Engines of Light Bk 3)	MacLeod K
+</Books>
+
+<Borrower>Donaghy, Michael</Borrower>
+<College>Trinity</College>
+<Email>md401</Email>
+<Date>5/2008</Date>
+<Books>
+02906	M06	Helliconia Winter	Aldiss B
+M25	Selected Ghost Stories	James M R
+  Grimwood J C            Effendi (2nd Arabesk; advance reading copy)
+  Grimwood J C            Pashazade (1st Arabesk)
+</Books>
+<Date>10/2008</Date>
+<Books>
+21721  Brin D        The Postman
+</Books>
+
+<Borrower>Goodman, Joy</Borrower>
+<College>???</College>
+<Email>jag76</Email>
+<Date>04/2005</Date>
+<Books>
+21467	Crown of Dalemark (Dalemark Bk 4), The	Jones D W
+</Books>
+
+<Borrower>Kaletsky, Arthur</Borrower>
+<College>DAMTP</College>
+<Email>ak283</Email>
+<Date>10/2008</Date>
+<Books>
+ 20806 Watson I                Queenmagic, Kingmagic
+ 22637  Clement H               Cycle of Fire
+  21471  Lem S                   Tales of Pirx the Pilot/Return from the Stars/The Invincible
+ 06969  Harrison H              Backdrop of Stars - the Craft of Science Fiction
+</Books>
+
+<Borrower>Klingle, David</Borrower>
+<College>Archaeology</College>
+<Email>dak37</Email>
+<Date>10/2008</Date>
+<Books>
+A 21514  Greenberg M H (Ed)      Foundation's Friends (stories in honour of Isaac Asimov)
+  09533   Anderson P          The High Crusade
+  22440   Brin D                  Sundiver (Uplift Pt 1 Bk 1) [signed]
+</Books>
+
+<Borrower>Levy, C</Borrower>
+<College>Emma</College>
+<Email>cl432</Email>
+<Date>10/2008</Date>
+<Books>
+ 05217  Nourse A E          The Universe Between
+ 09308  Gerrold D           The Man Who Folded Himself
+</Books>
+
+<Borrower>Low, Z. L.</Borrower>
+<College>Emma</College>
+<Email>zll22</Email>
+<Date>10/2008</Date>
+<Books>
+  41065  Asimov I            The Best of Isaac Asimov 1939-1952
+  41066  Asimov I            The Best of Isaac Asimov 1954-1972
+</Books>
+
+<Borrower>Miller, Alison</Borrower>
+<College>1 yr only</College>
+<Email>abm37</Email>
+<Date>10/2008</Date>
+<Books>
+03129  Walton E     The Prince of the Annwn
+21252   Zelazny R               Frost and Fire
+21283   Pratchett T             Witches Abroad (Discworld #12)
+01901   Jones D W               Power of Three
+21206   Hoffman N K         The Thread that Binds the Bones
+
+</Books>
+
+<Borrower>Morris, Laurence</Borrower>
+<College>Corpus</College>
+<Email>ldm29</Email>
+<Date>02/2005</Date>
+<Books>
+21933	Alien Earth	Lindholm M
+21842	Cloven Hooves	Lindholm M
+20671	Harpy's Flight	Lindholm M
+21074	Reindeer People, The	Lindholm M
+20652	Windsingers, The	Lindholm M
+21638	Wolf's Brother	Lindholm M
+</Books>
+
+<Borrower>Mullen, Eve</Borrower>
+<College>New Hall</College>
+<Email>edmm2</Email>
+<Date>10/2008</Date>
+<Books>
+ 41142   Stross C                Iron Sunrise
+</Books>
+
+<Borrower>Pendlebury, Rosemary</Borrower>
+<College>Newnham</College>
+<Email>rmp51</Email>
+<Date>10/2008</Date>
+<Books>
+	Gibson W                Idoru
+	Newman K                Dracula Cha Cha Cha
+41053   Reynolds A              Chasm City
+	Asimov I                Forward the Foundation
+</Books>
+
+<Borrower>Scott, Jacob</Borrower>
+<College>Then CL, now MIT</College>
+<Email>jhscott@mit.edu</Email>
+<Date>11/2004</Date>
+<Books>
+41135	Against a Dark Background	Banks I M
+06915	Omnibus (The Demolished Man/Tiger! Tiger!/The Dark Side of the Earth) [signed]	Bester A
+21979	Involution Ocean	Sterling B
+41134	American Gods	Gaiman N
+</Books>
+
+<Borrower>Irene Simmonds</Borrower>
+<College>Girton</College>
+<Email>is285</Email>
+<Date>10/2008</Date>
+<Books>
+X 09612  Cabell J B              Jurgen
+</Books>
+
+<Borrower>Sparke, Carol</Borrower>
+<College>Newnham</College>
+<Email>cbhl2</Email>
+<Date>10/2008</Date>
+<Books>
+ 02900   Herbert F           The White Plague
+X 02756  Wyndham J               Tales of Gooseflesh and Laughter
+ 41142   Stross C                Iron Sunrise
+	 Stirling S M            T2: Rising Storm
+  06437  Doyle A Conan       The Professor Challenger Stories
+</Books>
+
+<Borrower>Stitt, Kate</Borrower>
+<College>Downing</College>
+<Email>kls44</Email>
+<Date>10/2002</Date>
+<Books>
+Axiomatic	Egan G
+21604	Citadel of the Autarch (Book of the New Sun Vol 4), The	Wolfe G
+21603	Sword of the Lictor (Book of the New Sun Vol 3), The	Wolfe G
+</Books>
+
+<Borrower>Walkingshaw, Andrew</Borrower>
+<College>Jesus</College>
+<Email>adw27</Email>
+<Date>01/2004</Date>
+<Books>
+20338	Fire Upon the Deep, A	Vinge V
+</Books>
+
+Total unlikely to ever come back: 18

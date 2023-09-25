@@ -1,0 +1,192 @@
+html {
+  background: url(../images/assets/starburst.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+font-family:verdana, sans-serif;
+font-size:8pt;
+text-align: justify;
+margin:0;
+padding:0;
+}
+
+a:link, a:visited {
+text-decoration:underline;
+color:#000000;
+}
+
+a:active, a:hover {
+text-decoration:underline;
+color:#888888;
+}
+
+h1, h2 {
+font-family:verdana, sans-serif;
+}
+
+img {
+border:0px;
+}
+
+table {
+padding: 0 3%;
+width: 94%
+}
+
+#header {
+text-align:center;
+height:150px;
+}
+
+#header img {
+margin:auto;
+}
+
+#container1 {
+left: 327px;
+right: 215px;
+position: absolute;
+background: #c0c0c0;
+background: #ffffffc0;
+}
+
+#container2 {
+position:relative;
+width:100%;
+}
+
+#content {
+margin-left:20px;
+margin-right:20px;
+padding:5px;
+}
+
+#content h1 {
+font-size: 12pt;
+border-bottom: 1px solid black;
+letter-spacing: 4px;
+font-variant: small-caps;
+}
+
+#content h2 {
+font-size: 10pt;
+}
+
+#topleft {
+position:fixed;
+}
+
+#leftmenu {
+position:fixed;
+left:0;
+top:0;
+width:165px;
+margin:0px;
+margin-top: 350px;
+text-align:left;
+background: url('../images/bg-menu-bottom.png') no-repeat bottom center;
+background: #c0c0c0;
+background: #ffffffc0;
+}
+
+#leftmenu ul {
+list-style-type:none;
+margin:0;
+padding: 0;
+background: url('../images/bg-menu.png') repeat;
+}
+
+#leftmenu ul li {
+font-size: 10pt;
+margin: 0;
+}
+
+#leftmenu .heading {
+background: #FB9438;
+display: block;
+text-indent: 3px;
+}
+
+#leftmenu ul li ul {
+padding: 7px 0px 7px 0px;
+}
+
+#leftmenu ul li ul li {
+font-size: 8pt;
+text-indent: 7px;
+}
+
+#leftmenu ul li ul li a {
+display: block;
+}
+
+#leftmenu ul li ul li a:hover, #leftmenu ul li ul li a:active {
+background: url('../images/bg-menu-hover.png') repeat #fde01a;
+color: #000000;
+}
+
+#footer {
+margin-left: 170px;
+margin-right: 170px;
+padding: 5px;
+background: url('../images/bg-footer.png') repeat-x;
+text-indent: -5px;
+}
+
+#events {
+position: fixed;
+top:0;
+right:0;
+width: 200px;
+border-left: 1px solid #FB9438;
+border-bottom: 1px solid #FB9438;
+padding: 0px;
+background: #c0c0c0;
+background: #ffffffc0;
+}
+
+
+#events h1 {
+font-size: 9pt;
+margin: 0;
+padding: 3px;
+display:block;
+border-bottom: 1px solid #FB9438;
+background: #FB9438;
+}
+
+#events h2 {
+font-size: 8pt;
+margin: 0;
+border-bottom: 1px dashed #FB9438;
+padding: 3px;
+}
+
+#events ul {
+padding: 0;
+list-style-type: none;
+}
+
+#events ul li {
+padding: 3px 0px;
+}
+
+#events ul li ul {
+padding: 1px 0px 1px 5px;
+}
+
+#events ul li ul li {
+padding: 0 5px 0 0;
+}
+
+#events .meeting {
+font-style: italic;
+padding-left: 3px;
+}
+

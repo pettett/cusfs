@@ -1,0 +1,24 @@
+					<ul>
+					
+					<li><span class="heading">Society</span>
+					<ul>
+					<li><a href="#">Announcements</li>
+					<li><a href="#">Committee</a></li>
+					<li><a href="#">Constitution</a></li>
+					<li><a href="#">Membership</a></li>
+					<li><a href="#">History</a></li>
+					</ul>
+					</li>
+					
+					<li><span class="heading">Resources</span>
+					<ul>
+					<li><a href="#">Library</a></li>
+					<li><a href="#">Recommendations</a></li>
+					<li><a href="#">TTBA Magazine</a></li>
+					<li><a href="#">Archive</a></li>
+					</ul>
+					</li>
+					<!-- for the love of god, do this non-lazily -->
+					<li><span class="heading" style="color: #FB9438">asd</span></li>					
+					
+					</ul>

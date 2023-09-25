@@ -1,0 +1,6 @@
+Options +FollowSymlinks
+RewriteEngine on
+
+DirectoryIndex index.cgi
+RewriteBase /societies/cusfs/public_html/
+RewriteRule /\([a-z]+\) https://cusfs.soc.srcf.net/index.cgi?page=$1

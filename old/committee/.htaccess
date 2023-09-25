@@ -1,0 +1,8 @@
+AuthUserFile /u/cusfs/autoweb/passwords/.htpasswd
+  AuthGroupFile /dev/null
+  AuthName "the committee pages"
+  AuthType Basic
+  require valid user
+  <Limit GET>
+    require user dan
+  </Limit>
