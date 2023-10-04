@@ -21,6 +21,10 @@ open EVENTS, "txt/events.html" or die $!; #fetch and print the forthcoming event
 print <EVENTS>;
 close EVENTS;
 
+open BODY_START, "txt/body_start.html" or die $!; #fetch and print the start of the body
+print <BODY_START>;
+close BODY_START;
+
 open MIDDLE, "txt/middle.html" or die $!; #fetch and print the middle of the document
 print <MIDDLE>;
 close MIDDLE;
@@ -30,6 +34,10 @@ $content = "404" unless -e "txt/$content.html"; #return 404 if the file doesn't 
 open CONTENT, "txt/$content.html" or die $!; #fetch and print the content of the requested page
 print <CONTENT>;
 close CONTENT;
+
+open BODY_END, "txt/body_end.html" or die $!; #fetch and print the end of the body
+print <BODY_END>;
+close BODY_END;
 
 open BOTTOM, "txt/bottom.html" or die $!; #fetch and print the bottom of the document
 print <BOTTOM>;
