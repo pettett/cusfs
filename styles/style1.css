@@ -197,7 +197,8 @@ table {
 	background: #FB9438;
 }
 
-#events h2 {
+#events h2,
+#events h3 {
 	/* font-size: 8pt; */
 	margin: 0;
 	border-bottom: 1px dashed #FB9438;
